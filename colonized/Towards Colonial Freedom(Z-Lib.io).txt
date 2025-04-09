@@ -1,0 +1,616 @@
+"
+
+By the same author
+Published by Heinemann
+I Speak Of Freedom
+
+Published by Nelso-n
+Ghana: Autobiography of Kwame Nkrumah
+
+
+TOWARDS COLONIAL FREEDOM
+Africa in the struggle against world imperialism
+
+
+by
+Kwame Nkrumah
+
+
+
+
+
+
+y	HEINEMANN
+LONDON MELBOURNE TORONTO
+
+
+
+First published in this edition 196-2
+@ Kwame Nkrumah 196-2
+
+Contents
+
+
+
+
+
+
+
+
+
+
+
+Heinemann Educational Books Ltd
+15-16 Queen Street, Mayfair, London W.1
+
+
+
+Foreword Preface Introduction
+1	Colonialism and Imperialism
+2	Colonial Economics
+
+PAGE
+ix
+
+Xlll
+
+xv
+
+1
+
+9
+
+3 Colonial Policies: Theory and Practice	24
+4 Apology for Apologetics	30
+5 What Must Be Done	38
+Appendix: Declaration to the Colonial Peoples	44
+
+
+
+
+
+
+
+Printed in Great Britain
+by The Windmill Press Ltd, Kingswood, Surrey
+
+
+Every true revolution is a programme; and derived from a new, general, positive, and organic principle. The first thing necessary is to accept that principle. Its development must then be confined to men who are believers in it, and emanci,pated from every tie or con­ nection with any principle of an opposite nature.
+MAZZINI
+
+Tonegotiate with forces that are hostile on matters of principle means to sacrifice principle itself. Principle is indivisible. It is either wholly kept or wholly sacri­ ficed. The slightest concession on matters of principle infers the abandonment of principle.
+WILHELM LIEBKNECHT
+
+Thefuture of West Africa demands that the youth of West Africa should start life with a distinct objective. Of brain power we are assured. Of mechanical skill there is no dearth. What is wanted is the directing hand which will point to the right goal. A united West Africa arises, chastened and inspired with a conviction that in union is her strength, her weakness in discord.
+CA S E L EY  HA Y F O RD
+
+
+
+
+
+
+
+"1
+vii
+
+
+
+
+Foreword
+
+
+In 1942 _, twenty years ago -when I was a student in the United States of America, I was so revolted by the ruthless colonial exploitation and political oppression of the people of Africa that I knew no peace. The matter exercised my mind to such a degree that I de­ cided to put down my thoughts in writing and to dilate on the results of some of my research concerning the subject of colonialism and imperialism.
+  My studies at that time, however, left me little time to devote to this work, and it was not until I arrived in London in 1945 and came face to face with the colonial question, experiencing first hand the deter­ mination of student bodies fighting and agitating for colonial freedom in the very heart of a country that possessed a vast colonial empire, that I was stimulated to complete this booklet.
+  It was not really surprising that in spite of much effort on my part, I was unable to find anybody who would undertake to publish my work at that time. I managed to get a few copies printed privately, and these in tum were copied by mimeograph and other
+ix
+
+X	FOREWORD	FOREWORD	xi
+
+means, and distributed to those actively engaged in the freedom movement of Africa.
+  Now, twenty years later, when so many territories in Africa have succeeded in overthrowing the colonial yoke, and when these newly independent territories are being threatened by a new phase of colonialism, which I call neo-colonialism, I feel that the time has come to give Towards Colonial Freedom full publicity. I would like to mention two points. Firstly, this booklet, now being published for the first time, is exactly as it was written originally, that is, twenty years ago; no changes or corrections have been made and nothing has been added to or taken from it. S$<:ondly, the views I expressed then are precisely the views I
+hold today concerning the unspeakably inhuman· nature of imperialism and colonialism. Furthermore, most of the points I made then have been borne out . to the letter, and confirmed by subsequent develop­ ments in Africa and Asia.
+  There is, however, one matter on which my views have been expanded, and that is regarding African unity. Since I have had the opportunity of putting my ideas to work, and personally experiencing the bitter and arduous test of wit, patience and endurance that was necessary before our own victory over colonialism was won, I lay even greater stress on the vital import­ ance to Africa's survival of a political union of the African continent. Twenty years ago my ideas on African unity, important as I considered them even at that time, were limited to West African unity. Today, as I sit at my desk in Accra and glance at the
+
+several maps of Africa surrounding me, I see the wider horizon of the immense possibilities open to Africans - the only guarantee, in fact, for our survival - in a total continental political union of Africa.
+It is my hope that if it achieves nothing else, this
+book will provide a guide to students of the 'Colonial Question' and serve to emphasize the over-riding importance of freedom and independence not only for peoples everywhere who are still under the colonial yoke, but also for those who are becoming the puppets of neo-colonialism.
+KWAME NKRUMAH
+
+Accra, April, 1962.
+
+
+
+
+
+Preface
+
+
+This essay affirms, and postulates as inevitable, the national solidarity of colonial peoples and their deter­ mination to end the political and economic power of colonial governments. The purpose of this pamphlet is to	colonial policies, the colonial mode of pro­ duction and distribution and of imports and exports. It is to serve as a rough blue-print of the processes by which colonial peoples can establish the realization of their complete and unconditional independence.
+  We have read articles, papers, pamphlets and books on the subject and are weary of the platitudes of their authors and distortion of facts. We have written as we see the facts and are indebted to no one but our own conscience quickened by the rich revolutionary heri­ tage of historical epochs.
+The  point of view maintained in this pamphlet
+stands in an uncompromising opposition to all colonial policies. It exposes the inherent contradictions between
+(i) colonial labour and capital investments in the colonies, between (ii) the financial monopolist com­ bines and the imperialist powers in their unquench-
+xiii
+
+XIV	PREFACE
+
+able thirst for colonies and the national aspirations of the colonial peoples, and between (iii) the stated policies of the colonial governments and the practical application of these policies in the colonial areas.
+Those who formulate the colonial issue in accord­
+ance with the false point of view of colonial powers, who are deluded by the futile promises of 'preparing' colonial peoples for 'self-government', who feel that their imperialist oppressors are 'rational' and 'moral' and will relinquish their 'possessions' if only confronted with the truth of the in justice of colonialism are tragic­ ally mistaken. Imperialism knows no law beyond its own interests.
+KWAME NKRUMAH
+London, October, 1947.
+
+
+
+
+
+Introduction
+
+
+
+Colonial existence under imperialist conditions neces­ sitates a fierce and constant struggle for emancipation from the yoke of colonialism and exploitation. The aim of all colonial governments in Africa and elsewhere has been the struggle for raw materials; and not only this, but the colonies have become the dumping ground, and colonial peoples the false recipients, of manufactured goods of the industrialists and capitalists of Great Britain, France; Belgium and other colonial powers who turn to the dependent territories which feed their industrial plants. This is colonialism in a nutshell.
+  The basis of colonial territorial dependence is econ­ omic, but the basis of the solution of the problem is political.  Hence political inde  ,i,;:M :i.nttq
+r:.b; -le- s. t-1-m- t..o-,-.-,,-.4-..,..,. .•,".'..tw...em mfo. ,..;ma:tion.. ,.
+This point of view irrevocably calls for an alliance of all colonial territories and dependencies. All provincial and tribal differences should be broken down com­ pletely. By operating on tribal differences and colonial provincialism, the colonial powers' age-long policy of 'divide and rule' has been enhanced, while the colonial
+xv
+
+XVl	INTRODUCTION	INTRODUCTION	XVll
+
+national independence movement has been obstructed and bamboozled. The effort of colonial peoples to end colonial exploitation demands the eager and earnest collaboration of all of them. They must bring into its service all their energies, physical, mental, economic and political.
+  Beneath the 'humanitarian' and 'appeasement' shib­ boleths of colonial governments, a proper scrutiny leads one to discover nothing but deception, hypocrisy, oppression and exploitation. Such expressions as 'colonial charter', 'trusteeship', 'partnership', 'guardian­ ship', 'international colonial commission', 'dominion status', 'condominium', 'freedom from fear of perm­ anent subjection', 'constitutional reform' and other shabby sham gestures of setting up a fake machinery for 'gradual evolution towards self-government' are means to cover the eyes of colonial peoples with the veil of imperialist chicanery. But the eyes of colonial peoples are beginning to see the light of day and are awakening to the true meaning of colonial policies. China discovered it; India has discovered it; Burma, Netherlands East Indies, French Indo-China, the Caribbean Islands and Africa are awakening to such a discovery.
+  The idea that Britain, France or any other colonial power is holding colonies under 'trusteeship' until, in their opinion, the colonies become 'capable' of self­ government is erroneous and misconceived. Colonial powers cannot afford to expropriate themselves. And then to imagine that these colonial powers will hand freedom and independence to their colonies on a silver
+
+platter without compulsion is the height of folly.
+  Let us take for example, Britain.* In an attempt to reconcile the inherent contradictions within her capitalistic economy, she has two courses only left to keep her home population from starvation; either her population must be dispersed in the colonial territories, or she must guarantee subsistence to them by exploita­ tion of the colonies. The former, if put into action, will ultimately necessitate agitation for dominion status or no less than independence by the white settlers, as was the case in colonial America or in the Union of South Africa. Such a step may also lead to 'race' conflict between the settlers and the aborigines, as is now the case in the Union of South Africa. The latter is 'natural', since Britain or any other colonial power depends on the exports of her manufactured goods and the cheap imports of raw materials.
+The colonies are thus a source of raw materials and
+cheap labour, and a 'dumping ground' for spurious surplus goods to be sold at exorbitant prices. There­ fore these colonies become avenues for capital invest­ ments, not for the benefit and development of the colonial peoples, but for the benefit of the investors, whose agents are the governments concerned. That is why it is incoherent nonsense to say that Britain or any other colonial power has the 'good intention' of developing her colonies for self-government and in-
+  * I have made constant reference to Britain and her relation to her African colonies not because she is an isolated case but because she is the greatest colonial power of modern times. Although I have concentrated on colonial Africa, the thesis of the pamphet applies to colonial areas everywhere.
+B
+
+XVlll	INTRODUCTION
+
+dependence. The only thing left for the colonial peoples to do is to obtain their freedom and independ­ ence from these colonial powers.
+  Whatever camouflage colonial governments may decide upon, be it in the form of appeasements cloaked in 'constitutional reforms' or the 'Pan Africanism'• of Jan Smuts, there is only one road, the road of the
+
+
+
+
+
+1: Colonialism and Imperialism
+
+national liberation movement, to colonial independ­		 ence. It cannot come	through delegations, gifts,
+charity, paternalism, grants, concessions,  proclama­
+
+tions, charters or reformism, but only through the com­ plete change of the colonial system, a united effort to unscramble the whole colonial egg of the last hundred years, a complete break of the colonial dependencies from their 'mother countries' and the establishment of their complete independence.
+
+
+
+
+ * This plan proposes to group the various colonial territories of the several powers in Africa into loose geographical regions. Each group of territories would be covered by a central Regional Council on which would sit representatives of the various powers possessing colonies in that respective zone. In addition to these, there will be also representatives of other powers having only strategic commercial interests in that area, sitting in that council.
+  Behind Jan Smuts' regional plan (condominium) is a conscious drive for wider markets for the output of raw commodity interests which the war has inaugurated and expanded in the colonial areas. It is a subterfuge attempt to give assistance to the annexationist powers to exploit Africa on a wider scale. It offers ample opportunities for colonial annexations for which the anachronistic mandate system has already paved the way.
+
+The basic driving force today is economic, and economics are at the root of other types of imperialism. However, there have been three fundamental doctrines in the philosophical analysis of imperialism: (a) the doctrine of exploitation; (b) the doctrine of 'trustee­ ship' or 'partnership' (to use its contemporary counter­ part); and (c) the doctrine of 'assimilation'. The ex­ ponents of these doctrines believe implicitly and ex­ plicitly in the right of stronger peoples to exploit weaker ones to develop world resources, and 'civilize' backward peoples against their will.
+In general, imperialism is the policy which aims at
+, creating, organizing and maintaining an empire. In other words, it is a state, vast in size, composed of various distinct national units, and subject to a single, centralized power or authority. This is the conception of empire: divers peoples brought together by force under a common power. It goes back to the idea of Alexander the Great with his Graeco-Asiatic empire. He conquered the then known world, and sat down and wept because he had no more territory to conquer.
+
+
+2	TOWARDS  COLONIAL  FREEDOM
+
+Theimperialism of Julius Caesar needs no comment here. Modern imperialism, however, must be dis­ tinguished from that of the ancients exemplified by Caesar and Alexander the Great. Neither the Norman conquest nor th<: annexations of Frederick the Great, nor the expansions of the American pioneers into the western plains can be called imperialism, but the annexation of one nation or state by another and the application of a superior technological strength by one nation for the subjugation and the economic exploita­ tion of a people or another nation constitutes outright imperialism.
+  Colonialism is, therefore, the policy by which the 'mother country', the colonial power, binds her colonies to herself by political ties with the primary object of promoting her own economic advantages. Such a system depends on the opportunities offered by the natural resources of the colonies and the uses for them suggested by the dominant economic objectives of the colonial power. Under the influence of national aggres­ sive self-consciousness and the belief that in trade and commerce one nation should gain at the expense of the other, and the further belief that exports must exceed imports in value, each colonial power pursues a policy of strict monopoly of colonial trade, and the building up of national power. The basic notion, that of strict political and economic control, governs the colonial policies of Britain, France, Belgium and other modern colonial powers.
+The  dominant reasons for the quest for colonies*
+* The term colony originally meant a transplanted organised
+
+COLONIALISM  AND  IMPERIALISM	3
+and particularly the penetration into Africa by European capitalist powers were stated by Jules Ferry, the master of imperialist logic, in a statement made by him in 1885 in the Chamber of Deputies while speaking in defence of the colonial policy of the government of France, of which he was then the Premier. Ferry said: 'The nations of Europe desire colonies for the following three purposes: (i) in order that they may have access to the raw materials of the colonies; (ii) in order to have markets for sale of the manufactured goods of the home country; and (iii) as a field for the investment of surplus capital.'
+Albert  Sarraut,  Colonial  Secretary  of  State  for
+France in 1923, at the Ecole Coloniale, Paris, said: 'What is the use of painting the truth? At the start, colonization was not an act of civilization, was not a desire to civilize. It was an act of force motivated by interests. An episode in the vital competition which, from man to man, from group to group, has gone on ever-increasing; the people who set out for taking and making of colonies in distant continents are thinking
+
+group of people settling in a foreign land. In the political sense,a colony is either a settlement of the subjects of a nation or state beyond its frontiers, or a territorial unit geographically separated from, but owing allegiance to, it. Thus modern colonial history exhibits two types of colonies: a settlement colony and an exploitation colony. A settlement colony is one in which the geographical and racial environment is not very different from that of the 'mother country', while an exploitation colony consists typically of groups of business men, monopolist combines, cartels, trusts, administrators, soldiers and missionaries - all of which are thrust and dumped into con­ ditions and environment quite different from their home country.
+
+4	TOWARDS  COLONIAL  FREEDOM
+primarily only of themselves, and are working only for their own power, and conquering for their own profits.' Sarraut concluded his speech with these words, and thus exposed the falsehood of the 'white man's burden', and the 'mis.sion dvilisatrice' policy in colonization: 'The origin of colonization is nothing else than enter­ prise of individual interests, a one-sided and egotistical imposition of the strong upon the weak.' Such is the phenomenon of European capitalist aggressiveness, one which has been rightly termed 'colonial imperialism'. Our best illustration is the 'scramble for Africa', which began when the economic insufficiency of Great Britain, France, Germany, Spain, Portugal, Belgium and Italy impelled their political leaders to look be­ yond the seas for markets and storehouses of wealth and resources in order to consolidate their individual states
+and guarantee their economic security.
+  In 1881 France extended her colonial sway over Tunis and, the year following, Britain secured control over Egypt. In 1884 the first German colony was estab­ lished at Angra Pequena Bay in South-West Africa. The occupation of Togoland and Cameroons in West Africa followed. The spectacular advent of Germany as a colonial power provoked the jealousy of France. A French force was despatched to seize the unoccupied territory between the Cameroons and the Portuguese colony of Angola. This became the French Congo. In 1894 the tricolour was raised over Timbuktu, Dahomey and the Ivory Coast. The whole of the western Sudan was soon under French occupation. In 1885 a pro­ tectorate was established over Madagascar.
+
+COLONIALISM  AND  IMPERIALISM	5
+  Then ensued the Anglo-French colonial jealousy which culminated in a crisis in 1898 when the occupa­ tion of the Sudanese port of Fashoda threatened to upset Britain's colonial annexations within that area. France withdrew and the Eastern Sudan came under the control of Britain.
+France then began to make advance towards the
+conquest of Morocco. Such action contravened the in­ tention of Germany. A dispute between France and Germany arose which resulted in the calling of a con­ ference of the colonial powers at Algeria, in 1905, which left Morocco open to the penetration of all the other nations. But the right of France and Spain was recognized as a sort of joint protectorate over Morocco. In 1911 Germany raised further colonial claims and succeeded in buying a slice of the French Congo.
+  Italy felt herself cheated of a possible field of ex­ pansion by the moves of Britain and France. This was one of the results of the formation of the Triple Alliance. A colonial rush to secure some parts of Africa now took place. In 1882 Italy occupied Assab, and three years later Massawa was taken. In 1889 Italian Somaliland was formed into a colony. Abyssinians re­ volted and the battle of Adowa ensued. Italy was
+defeated.
+In  1876 the  International African Association was
+formed under the direction of Leopold II, King of Belgium, for the occupation of the Congo Basin. In 1885 at a conference held in Berlin, Leopold obtained permission of the other colonial powers to erect these Belgian settlements into a 'Congo Free State' under his
+
+6	TOWARDS  COLONIAL  FREEDOM
+'protection'. The cruel treatment meted out by the Belgians to the Africans in the colonies is a common story in colonial exploitation.
+  Thus Africa became not only the market for European goods but a field for capital investments. As British, German, French and European industry was organized the products were divided between the entrepreneur and the capitalists, who got salaries and dividends at the expense of the African labourer.
+  The bankers of the European colonial powers had surplus capital to invest in competition with one another. To protect theseinvestments they reduced the colonies to exploited subject status. It was circum­ stances like this that led to the rebellion of Egypt under Arabi Pasha. While the French hesitated, Great Britain crushed the revolt and thus Egypt became a British colony. Briefly, then, imperialism in Africa was a direct answer for the capitalists, bankers and financiers of the colonial powers to the problem of how to accrue for themselves super profits from their foreign investments.
+  The fate of the colonies changes in accordance with the results of European imperialist wars. After the first	World	War	(1914),	Great	Britain	received German East Africa, a quarter of Togoland and a piece of the Cameroons. France took over the remaining three-quarters of Togoland and a greater part of the Cameroons, while Belgium and Portugal got slices of German East Africa. The Union of South Africa re­ ceived German South-West Africa.
+Thus present day partitioning of Africa falls into
+
+COLONIALISM  AND  IMPERIALISM	7
+thefollowing colonial regions:
+
+I. NORTH AFRICA, includes: (1) Rio de Oro (Spanish);	(2)  Morocco  (French);	(3)  Algeria
+(French);	(4)	Tunisia	(French);	(5)	Libya
+(formerly Italian); (6) Egypt (independent); (7) Anglo-Egyptian Sudan (British).
+II. EAST AFRICA, includes: (1) Kenya (British); (2) Uganda (British); (3) Tanganyika (British); (4) Nyasaland (British); (5) Portuguese East Africa;
+(6) Abyssinia (Independent); (7) The Somalilands (British, French, Italian).
+III. SOUTH AFRICA,* includes: (1) The Union of South Africa (European rule) and the mandated territories of South-West Africa.
+IV. WEST AFRICA, includes: (1) Senegal (French);
+(2) Ivory Coast (French); (3) Portuguese Guinea;
+(4) French Sudan; (5) Liberia (Independent); (6) Dahomey (French); (7) French Equatorial Africa;
+(8) Belgian Congo; (g) The Cameroons (British and
+  * Nearly seven million Africans, almost three-fourths of the entire population of the Union of South Africa, possess less than twenty per cent of the total area of the Union. They are by law denied the right of acquiring more land either by purchase or by other means. Regardless of qualification, they are deprived of the right to vote in the regular parliamentary elections and are constitutionally denied the right to become members of the Union Parliament. Further, they are gravely limited in their right to organise, to form trade unions, in their right to strike, to move about freely, to buy land, to trade, to acquire education, and to aspire to full citizenship in their own c91,mtry.
+
+8	TOWARDS  COLONIAL  FREEDOM
+French); (10) Angola (Portuguese); (11) Gambia (British); (12) Sierra Leone (British); (13) The Gold Coast (British); (14) Togoland (French mandate);
+(15) Nigeria (British).
+
+
+
+
+
+2 : Colonial Economics
+
+
+
+Since we feel that mercantilism - as an aspect of imperialism - is the basis of colonial economics, a brief history of the term is essential here. Mercantilism is a term applied to the economic policy which had its inception in Europe just at the close of the Middle Ages. In fact, it was the next historical development of feudalism. Its doctrine, in the extreme sense, made wealth and money identical; but as the years rolled on mercantile economists based the definition of the sys­ tem on money exclusively. Money was therefore regarded as the main object of a community. Thus it was held that the community must confine itself to dealing with other nations on such lines as would attract the most possible precious metals to itself. This method of trade among nations led to what is known in the realm of economics as the 'balance of trade', which meant the relationship of equilibrium between export and import.
+Eventually, this system of 'balance of trade' was con­
+sidered favourable when more money was received into the country than was paid out. To assure a favour-
+9
+
+10	TOWARDS  COLONIAL  FREEDOM	COLONIAL  ECONOMICS	l l
+
+able balance of trade, governments of nations resorted to certain economic and political expedients. For instance: (i) high duties on imports; (ii) exports of home manufactured goods; (iii) receiving only raw materials from other countries; (iv) restrictions on the exports of precious metals; (v) exaltation of foreign trade over domestic trade; {vi) organizing of industries and fac­ tories at home; {vii) the importance of dense popula­ tion as an element of national strength to safeguard foreign trade, and last but not least; (viii) the employ­ ment of state action in furthering such ends.
+  Governments took great interest in these mercantile programmes because they needed money and men for the maintenance of the army and for the unification of their national states. Thus statesmen and business aristocracy conjectured that for them to further their political and economic ambitions successfully, indus­ tries and the mercantile system must prosper. Event­ ually, this conception of trade led to the great problem of colonization.
+  The purpose of founding colonies was mainly to secure raw materials. To safeguard the measures for securing such raw materials the following policies were indirectly put into action: (i) to make the colonies non­ manufacturing dependencies; (ii) to prevent the colonial subjects from acquiring the knowledge of modern means and techniques for developing their own industries; (iii) to make colonial 'subjects' simple producers of raw materials through cheap labour; (iv) to prohibit the colonies from trading with other nations except through the 'mother country'. The
+
+methods employed by the imperialists today are developments of mercantilism.
+Colonial economics may be traced through three
+main phases corresponding to its history. The mer­ cantile period, the free-trade period and the period of economic imperialism, all being respectively dominated by merchant capital, industrial capital and finance capital. We are here mainly concerned with the last phase, economic imperialism with its dominance of
+finance capital.
+  The most searching and penetrating analysis of economic imperialism has been given by Marx and Lenin. According to the Marx-Lenin point of view, economic imperialism is not only the natural stage in the development of the capitalist system, but its highest stage in which the inner contradictions and in­ consistencies of the system foreshadow its doom and
+demolition.
+  The Marxist-Leninist position may be stated thus: In the capitalist system of production labour is treated as a commodity to be bought and sold in the market like any other commodity. As such, it figures in the capitalist-producer's calculations merely as one produc­ tion cost among others. But since the system is a com­ petitive system, the capitalist-producer is compelled to keep wages down in order to keep the margin of profit high. Here it becomes obvious that the economic philosophy of high wages, even though it may operate well in special industries whose circumstances favour a combination of high wages with low wage-costs per unit of production, cannot under capitalism be applied to
+
+12	TOWARDS  COLONIAL  FREEDOM	COLONIAL  ECONOMICS	13
+
+industry as a whole. This means that under the capitalist system of production a point is soon reached where wages appear a necessary evil even to the capitalist-producer, who now realizes that the incomes distributed as wages form the body of the market for what he wants to sell. And since competition and the necessity of profit determine the outlook of capitalism, it cannot raise incomes 'up to the limits of productive capacity'.
+  The capitalist-producer, in seeking profit by limit­ ing his wage bill, impedes his own effort to find buyers for the increasing volume of his production.
+  This dilemma becomes even more confounded by the introduction of combines and monopolies due to the fact that these combines and monopolies continue to compete with other combines and monopolies pro­ ducing similar commodities in other countries. Thus complete elimination of competition from the capitalist system of production is not only a contradiction but an impossibility.
+  To find a way out of this contradiction the capitalist­ producer turns his profit-seeking eyes to the colonies and dependent territories. He does so first by killing the arts and crafts in these areas through the com­ petition of his cheaper machine-made goods (exports) and, secondly, by thrusting capital loans upon them for financing the construction of railways, harbours and other means of transportation and communication in so far as these constructions cater to his profits and safe­ guard his capital. Industrial capital thus fuses with finance capital.
+  
+It is when the number of the capitalist countries re­ lying on foreign markets and fields of investment in­ creases and the number of colonizable areas diminishes that rivalries among the colonial powers ensue, rivalries which issue first in minor wars of colonial conquests and later in the great imperialist wars of modern times. Lenin in his Imperialism the Highest Stage of Capitalism, summarizes the position thus:
+
+  Imperialism is capitalism in that stage of develop­ ment in which the domination of monopolies and finance capital has taken shape; in which the export of capital has acquired pronounced importance; in which the division of the world by the international trusts has begun, and in which the partition of all the territory of the earth by the greatest capitalist countries has been completed.
+
+  The effect of this type of imperialism on colonial peoples is dramatic. The stage opens with the appear­ ance of missionaries and anthropologists, traders and concessionaires, and administrators. While mis­ sionaries' with 'Christianity' perverted implore the colonial subject to lay up his 'treasures in Heaven where neither moth nor rust doth corrupt', the traders and concessionaires and administrators acquire his mineral and land resources, destroy his arts, crafts and home industries. Since the rise of colonial industry would entail more competition and undercutting, these finance-capital-producers and their imperialist cohorts do everything in their power to prevent its development.
+
+14	TOWARDS  COLONIAL  FREEDOM	COLONIAL  ECONOMICS	15
+
+  Economic development in the colonial areas is per­ verted precisely because the monopoly stage, which should come as a logical advanced feature of capitalism, is introduced before even the most primitive manifesta­ tion of local capitalist development. Hence the stagna­ tion and decay characteristic of colonial economy.
+  But the introduction of capitalism into the colonies does not take the 'normal' course it took in western countries. Free competition does not exist, and monopoly control of all resources of the colonies demonstrates the perversion of finance capitalism. It is canalized to suit the monopolist combines and in­ vestors. The finance capitalist and investor find the easiest and richest profits not from establishing in­ dustry in the colonies, which would compete with home industries and necessitate a drastic rise in wages and a high standard of living in order to create a purchasing power formidable enough to render increased produc­ tion possible, but by exhausting the natural and mineral resources of the colonies, and by considering their human resources just as another commodity to be used and thrown away.
+  This brings us to the question: what is the relation­ ship between the monopolist, non-industrial economy engineered by the colonial powers in the colonies and the migrant labour system? Briefly and precisely, it is this: that the concentration of large bodies of colonial labourers in constant contact with realities of the most repressive and degrading conditions of life, leads to the creation of a class-conscious working class which is in a position to defend itself against its oppressors. At
+
+all costs the finance capitalist must prevent the forma­ tion of such a class-conscious group in order to prevent his destruction. This is the reason why colonial workers are recruited and forcibly broken up and disbanded every year by their capitalist exploiters, and compelled to retire to their homes and villages where capitalist exploitation is indirectly exercised through corrupted 'warrant' chiefs and a politically sold intelligentsia. Thus, resentment against the foreign capitalist oppressors is arrested, and conditions for mass organiza­ tion against them aborted.
+  Take Britain, for instance, and see what she does in her African colonies. She controls exports of raw materials from the colonies by preventing direct ship­ ment by her colonial 'subjects' to foreign markets, in order that, after satisfying the demands of her home industries, she can sell the surplus to other nations, netting huge super-profits for herself.
+  The colonial farmer-producer has no share in these profits. The question may be raised to the effect that the colonial powers utilize part of these profits for public works, health projects and 'loans'. The fact generally forgotten is that such 'loans' come from tax­ ing the colonial 'subjects', and the profit gotten from their produce and mineral resources, and the greater part of these very loans is used in paying European officials in the colonies.
+  A recent White Paper* released by the Colonial Office reveals a fabulous profit of £3,676,253 sterling netted by the British Government from exploitation of
+* Cmd. 6554. H.M. Stationery Office, London.
+C
+
+16	TOWARDS  COLONIAL  FREEDOM	COLONIAL  ECONOMICS	17
+
+800,000 families of West African colonial cocoa farmers. This is how it was done: A Cocoa Control Board was established by, and was responsible to, the Colonial Office, and acting as 'trustees' for the West African cocoa farmers, it was empowered to purchase the total production of cocoa, and to prescribe the prices to be paid to the farmers; and, not only this, but the board was also responsible for the general disposal of cocoa from the colonies. The Board, during the period from 1939-1943, squeezed out the aforesaid profit - a profit not shared by the colonial farmers. Such profits resulted from the fact that the cocoa for which the African farmer received one and one-fourth pence (two and one-half cents) a pound brought four pence (eight cents) and four and one-half (nine cents) a pound in London and New York, respectively. In short, while the African peasants' cost of living and demands on his labour were increasing, and his income falling, the monopolist chocolate combines were reaping super­ profits.
+We learned also of a fund called 'Aid for Colonial De­
+velopment and Welfare', which provides £uw,ooo,ooo sterling in grants to the colonies. A little arith­ metical reflection, however, shows that when the population of the colonial empire is taken into con­ sideration the amount works out at eighteen pence (thirty-six cents) per inhabitant per year. During the first year and a half after the passage of the said Act the amount spent was two pence (four cents) per in­ habitant per year. Nor is this all. The benefits of the
+
+Colonial Development Fund are largely illusory, since the £120,000,000 is not in the safe keeping of a Bank of the British Empire as such where any colonial ter­ ritory can apply for the money it may need for its 'welfare development'. To simplify the issue: sup­ posing, say, Nigeria needs £40,000 for its 'welfare development', the British Government in Nigeria then goes to Barclays Bank, which advances the £40,000 to the people of Nigeria at six per cent interest. On this basis the people of the 'colony' of Nigeria eventually find themselves in perpetual debt to the very agencies which are supposed to be concerned with their 'welfare development'. It is a common economic experience that wherever there is economic dependence there is no freedom.
+  The policy underlying the economic situation in the colonies is that of monopoly control forcing the farmer and peasant to accept low fixed prices by eliminating open competition, and forcing the same colonial farmer and peasant consumer to buy at high fixed prices. Marketing of produce and manufactured goods in the British West African colonies, for in­ stance, is done by the European merchants, through a 'pool' system.
+  As a result of the operations of this monopolist com­ bine and the mining companies, with the aid of their agency, the government, gold and money leave the country, and consequently no local capital is left in the colonies. Industrial and commercial aspirations and growth on the part of the colonial subjects is thus
+
+18	TOWARDS  COLONIAL  FREEDOM	COLONIAL  ECONOMICS	19
+
+arrested; wages drop, and the colonial 'subject' Jin it
+,i		capital of any sort for any busi­ ness	and worse than this, whether as a w1ge earner or as a peasant, he is always in debt du to the fact that when he buys the manufactured goods he loses, and when he sells his produce he loses; and the colonial government sees that he remains in perpetual debt by further taxing him. The colonial subject is thus economically strangled by his very 'trustees' who are supposed to prepare him for self-government.
+ furt / the. £0lonial' subject cannot go illri> any: form ottbosinessc8ffll'	·	·the,whole­ sale. ptfces"clia°rg@1iy'the nionopolist combines leaw
+him no. margin ot·prolits,tAnd this in addition to the secret arrangements between the combines and the manufacturers makes it impossible for him to buy directly from the manufacturers. No matter how large an order he gives them, he is always referred to the local agents, who are members of the powerful monopolist combines.
+  Since the advent of capitalism into the colonies colonial peoples have been reduced to the level of labourers and contract bondsmen, and are unable to organize effectively due to government and monopolist combine interference. The philosophy of European capitalism in the colonies is that colonial subjects should labour under any foreign government with uncomplaining satisfaction. They are supposedly 'in­ capable' of developing the resources of their own country, and are taught to labour and appreciate European manufactured goods so as to become 'good'
+
+customers. The meagre stipend given to them as a wage by the European capitalists is spent on spurious im­ ported manufactured goods, the only kind they get. Curiously enough, the same coin that is given to the 'native' as a wage by his exploiter eventually returns to the pocket of that wily exploiter.
+  The slogan 'buy British and trade imperial' is used to stimulate the maintenance of higher prices for British manufactured goods. 'Preferential tariff' (higher customs duties and low quotas) are applied on foreign manufactured goods. Howevcr,:.c ·:Americat:F goods, &ri1/
+,Simuch higlitt quotas than Japaru:se mahufactur
+goods. Jn spite of the preferential duty the Japanese
+'continued to produce cheaper goods and to export them to British colonies. In order to freeze the importa­ tion of cheaper-priced Japanese goods, the local govern­ ments of the British colonies, agents of British monopolist combines and industrialists, continued to raise the tariif di(tlre Japanese go<>g•s••,!JlA finally froze
+,*.heni  out. This -underlies  the  denunciation  of  the .
+-Anglo.Japanese Treaty of 1934.,
+· · Tariffs are usually applied to protect domestic economy, but this is not so in the colonies. For there tariffs are applied for the protection of British trade and profits since the colonies do not manufacture their own goods. The same preferential tariff that protects the imports of British manufactured goods also protects the produce and raw materials of the colonies (exports) against shipment to foreign countries except through British agencies. This is done to ensure much higher prices and therefore huge profits for the combines and
+
+20	TOWARDS  COLONIAL  FREEDOM	COLONIAL  ECONOMICS	21
+
+companies. This is what we term the two-way fixed price system, basic in colonial economics. The object of this system is to buy cheap raw materials and labour from the colonies and to sell high-priced manufactured goods back to the colonies. It is the colonial peasants who suffer most considerably from this evil system. This again goes to prove that as long as colonial powers are able to keep the colonies under this economic system (importing only manufactured goods and ex­ porting only raw materials and produce) colonial sub­ jects will not progress to any notable extent and will always remain poverty stricken with a sub-normal standard of living.
+  That is one of the reasons why we maintain that the only solution to the colonial problem is the complete eradication of the entire economic system of colonialism, by colonial peoples, through their gaining political independence. Political freedom will open the way for the attainment of economic and social im­ provement and advancement. It must be otherwise under foreign rule.
+
+
+
+THE LAND QUESTION
+
+
+  The alienation to Europeans of enormous tracts of land which were once available for African use, and the consequent rise of an alien absentee land interest, a class of European settlers and concessionaires, intent on
+
+ra1smg the money value of their holdings and on acquiring political ascendancy as a means to that end, is the basic trend in the colonial land question.
+The African is robbed of most of his lands, through
+legal extortion and forced concession. In the West African colonies, for example, where there is no per­ sonal private ownership of land, for all land belongs to some clan or tribe, the personal ownership of land always develops whenever colonial powers have dis­ regarded the African land-tenure system in favour of their own. For while agriculture, in its rude and infant stage, is primarily the 'affair' of the African clan or tribe, the mining and large plantations are entirely in the hands of the suzerain power itself or of foreign in­ dustrialists and capitalists.
+  The land question, like any other colonial question, is handled by the colonial powers in such a way as to yield maximum profits for their mining and plantation investments. In order to confiscate the land of colonial subjects certain devices are used. We enumerate the following, using British land confiscating tactics as a
+typical example.
+
+  (1) Britain, by certain 'legal' enactments, has secured direct and indirect ownership, control and possession of the land of colonies and protectorates. The Foreign Jurisdiction Act of 1890 is a good example of these 'legal' enactments. This Act contains the declaration that 'however the powers of the Crown might have been acquired, whether by treaty, grant, usage or other law­ ful means, its jurisdiction is as ample as if it had been
+
+22	TOWARDS  COLONIAL  FREEDOM	COLONIAL  ECONOMICS	23
+
+derived from the cession or conquest of territory.' This abrogates her treaty relations with her colonies and gives her sole possession, outright ownership, of the colonies. Hence it becomes a mockery to speak of colonial lands as belonging to the colonial 'subjects', who only possess 'surface rights' when valuable minerals are found on such lands. Other colonial powers have also used similar enactments for the pur­ pose of confiscating the colonial lands under their control.
+  (2) 'Ordinances' are passed to further the con­ fiscating and exploiting effect. These 'ordinances' cause certain areas to be roped off for afforestation. These areas contain valuable mineral wealth. Thus, afforesta­ tion is simply the mask to delude the colonial people. However, the lands that are wanted for urgent profits, mining and plantation, are claimed outright by the 'Land Office' for the Crown. The onus probandi of ownership rests upon ·the rightful owner, the colonial 'subject', who suffers here because his ancestors were not required to register their lands.
+  (3) Ninety-year leases are drawn up and forced upon the colonial subjects by 'provincial commissioners', agents of the colonial powers. These leases grant con­ cessions to private companies for exploiting the land and the mines. In some instances meagre and in­ adequate rentals are paid for the concessions of the land. This is an indirect method of the British of seizing land 'legally'. The French method of confiscat­ ing land differs from the British in that they make no pretence of seizure through 'legal' means but seize the
+
+land outright. In East and South Africa the other European powers also use the 'outright seizure' method.*
+(4) The latest development in the colonial land con­
+fiscating programme is the enactment of military defence acts, by which land in the colonies is being con­ fiscated for ultimate use of the colonial and other capitalistic powers concerned.
+
+
+
+
+
+
+
+
+
+
+
+
+
+  * In February, 1944, the Governor of Nigeria, in spite of strong opposition, passed a bill through the local legislature giving the British Government in Nigeria the right to take possession of all minerals discovered on land in the possession of Africans. This obnoxious law strikes at the very foundation of the West African land tenure system.
+Under the Ashanti Concessions Ordinances of 1903, mineral rights
+in the Gold Coast remain with African authorities, but negotiations in connection with concessions are supervised by European District Commissioners and the British Government in the Gold Coast has control of all money derived from the sales. The concessions are not worked on a royalty basis, but at a fixed rental, very often as low as
+£50, and nowhere exceeding £400 per year.
+
+
+
+
+
+3:Colonial Policies: Theory and Practice
+
+
+Within the African continent there are different types of dependent areas: colonies, protectorates and man­ dates. In the British West African colonies, for example, each colony is under the direct control and administration* of the Colonial Office through its representative, the governor, who is also the Com-
+
+  • In the administration and legislation of colonial possession by the colonial powers, three basic principles may bedistinguished:-
+  (1) Most of the legislation for the colonies is enacted in the 'Mother Country' through her home legislative organ. Other supplementary legislation is enacted in the legislative councils of the colonies, the head of which is the governor, appointed by the Secretary of State for the Colonies. The governor is endowed with veto powers and is subject to no one but the government of the 'Mother Country'.
+  (2) Under the second type of colonial administration most of the legislation is supposed to be enacted by the colony itself. However, both the executive and the legislative councils in the colony are under strict and direct control of the all-powerful governor of the colony.
+  (3) The third system provides creation of a representative legis­ lative body in the colony with official members appointed by the governor and unofficial members supposed to be elected by the people of the colony. The official members are in the majority and represent heads of the various governmental and commercial concerns.
+24
+
+COLONIAL POLICIES: THEORY AND PRACTICE	25
+mander-in-Chief and Vice-Admiral of the colony and protectorate.
+Under these systems it  is impossible  to vote the
+'government' out of office. In reality the legislative power rests basically with the parliaments of the 'Mother Countries'. In Great Britain this is justified by so-called 'royal prerogative', which allows the King to enact legislation for the colonial possessions. These systems also deliberately prevent and curb any aspira­ tions towards independence on the part of the colonial peoples. In fact, such administrative systems are not only the embodiment of colonial chaos and political confusion but definitely nullify the ideas of true democracy.
+Although  colonial  rules  have  drawn  distinction
+between a colony and a protectorate, there is practically no difference of any legal validity between them in the international position.
+The mandates were created after the First World
+War, when the former German territories in Africa were placed under the League of Nations. The under­ lying philosophy common to all mandates is the prin­ ciple that the 'well-being and development of such peoples form a sacred trust of civilization'. The man­ date system is a feeble and dangerous compromise between Wilsonian idealism, self-determination and the concept of trusteeship, on the one hand, and annexationists' ambition, political subjugation and economic exploitation, on the other. In other words, it is a cowardly compromise between the principle of self­ determination for dependent territories and imperial-
+
+26	TOWARDS  COLONIAL  FREEDOM
+ism. It becomes nothing but a useful tool in the hands of the powers to whom the territories are mandated in order to carry out their intentions and to perpetuate the economic exploitation of these territories by a com­ bination of colonial powers. The same consequences will follow if the newly-proposed international super­ vision of the dependent territories is carried out.
+  The doctrine of 'trusteeship' is supposed to be more humanitarian in its significance and approach than that of exploitation. It is the fundamental factor underly­ ing the system of 'dual mandate', exponents of which think that exploitation involves a sacred duty towards the exploited peoples. The colonial subjects must be exploited and 'civilized', but, in doing so, their 'rights' must be 'respected' and 'protected'. The philosophy underlying this doctrine reminds us of an African say­ ing that a mouse biting at the feet of its victim blows cool air from its mouth and nostrils on the spot to miti­ gate the pain it is inflicting. In other words, exploit the colonial peoples, but be cunning enough not to let them know that you are doing so. There are abun­ dant proofs that the primary motives underlying the quest for colonies and the present administrative and economic policies of the colonial powers are rooted in economic exploitation and not in humanitarianism.
+  The Conference of Berlin (1890), the Treaty of Ver­ sailles, the Covenant of the League of Nations, and the Trusteeship System of U.N.0., each and every one of these pacts contained provisions 'to protect and guard' colonial peoples. These provisions, however, were adopted to camouflage the economic philosophy of
+
+COLONIAL POLICIES: THEORY AND PRACTICE	27
+colonial powers so as to exploit with impunity. The material development - railways, roads, bridges, schools, hospitals - which are noticeable in the colonies have been merely accidental adjuncts to facilitate econ­ omic exploitation of the colonies.
+The  colonial powers build hospitals because if the
+health of the colonial subjects is not taken care of it will not only jeopardize their own health but will diminish the productive power of the colonial labourer. They build schools in order to satisfy the demand for clerical activities and occupations for foreign commercial and mercantile concerns. The roads they build lead only to the mining and plantation centres. In short, any humanitarian act of any colonial power towards the 'ward' is merely to enhance its primary objective: economic exploitation. If it were not so, why haven't the West African colonies, for instance, been given the necessary training that provides for complete political and economic independence?
+The  attitude of Britain, France, Spain, Italy and
+other colonial powers towards what they call 'participa­ tion' by colonial peoples in colonial government and public affairs are half-way measures to keep them com­ placent and to throttle their aspiration for complete independence.
+The principal difference between French and British
+colonial policies is that the former stands for 'assimila­ tion', a centralized government with uniform policy decided upon in Paris, and considering the French colonies as almost a part of France, emphasizing the use of the French language and drawing a line of distinc-
+
+28	TOWARDS   COLONIAL   FREEDOM	COLONIAL POLICIES: THEORY AND PRACTICE	29
+
+tion between a limited elite (notables evolues) with many privileges, and the teeming ignorant masses in her colonies: the latter, on the other hand, stands for decentralization and disunity in her colonial areas; emphasis is on 'indirect rule', the encouragement of 'Africans to remain Africans'. It pretends to build up African culture, folkways, art and 'civilization' and to adjust the character of government to the special needs of different tribes and groups, systematic application of the 'divide and rule' policy, and the exhibition of scientific exploitation through 'practical anthropology'. Yet, paradoxically enough, the full growth of industry in the colonies is arrested by the British.
+  Taking into account all of the arguments in favour of these colonial policies and the fact that the actual conditions in the colonies are not in harmony with the stated theories of colonial rule, and because such har­ mony is impossible, it will not be incorrect to say that democracy, self-determination, independence and self­ government are incompatible with the doctrines of 'trusteeship', 'partnership', and 'assimilation'. Indirect rule, 'native administration' policies, social projects, agricultural planning, facilities for 'full participation' in government, condominium, regionalism and domin­ ion status merely serve as means to one end: the per­ petuation of foreign rule upon colonial peoples and the economic exploitation of their material resources and
+manpower for the benefit of the so-called 'mother coun­ tries'.
+  We therefore repeat that only the united movement of the colonial people, determined to assert its right
+
+j •  to independence, can compel any colonial power to lay down its 'white man's burden', which rests heavily upon the shoulders of the so-called 'backward' peoples, who have been subjugated, humiliated, robbed and degraded to the level of cattle.
+
+
+
+
+
+I
+
+
+
+
+
+4 : Apology for Apologetics
+
+
+In the foregoing pages we have given the picture of the colonial situation as it exists and have demonstrated and exposed the contradictions between theories and practices of colonial rule. But before we make any sug­ gestion as to what must be done for the liberation of the colonies we want to point out briefly the futility in the points of view advanced by some colonial and non-colonial writers in reference to the freedom and independence of the West African colonies. They speak of 'internal self-government' and gradual evolution to membership of the 'British Commonwealth'.
+  The stubborn fact these people fail to realize is that the imperialist governments stand for political and economic domination, no matter under what mask, 'democracy' or what not, and therefore will never give colonial subjects equal status with other dominions such as the Union of South Africa, Australia, New Zealand and Canada within the British Commonwealth of Nations. They forget that the British dominions are all in league with the financial oligarchy of Great Britain for the exploitation of the colonies, and utterly
+30
+
+
+
+
+
+I
+
+I,''
+/,
+1!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+'1
+
+APOLOGY  FOR  APOLOGETICS	31
+fail to see the intimate connections between political domination and economic exploitation. They appar­ ently ignore the fact that such steps as they propose in asking for gradual withdrawal of the political adminis­ tration are in effect asking the 'mother country' to expropriate herself. Isn't economic exploitation the driving force and basic principle of colonization? Dominion status carries with it certain political as well as economic advantages which the 'mother country' is determined to deny the colonial dependencies. In con­ sidering the colonial question it is necessary to have a clear-cut distinction between those colonies of the capitalist countries which have served them as coloniz­ ing regions for their surplus population, and which in this way have become a continuation of their capitalist system (e.g. Australia, Canada, New Zealand, South Africa, etc.), and those colonies which are exploited by the imperialists primarily as sources of raw materials and cheap labour, as spheres for export of capital, and as markets for their manufactured goods and commodi­ ties. Our colonial apologists and social-democratic reformists, who advocate 'self-government' and 'domin­ ion status' as the solution to the colonial problem, fail to realize that this distinction has not only a historic but also a great economic, social and political signifi­ cance. They fail to grasp the essential point, that capitalist development reproduces among the popula­ tion of the imperialist countries the class structure of the metropolis (i.e. the imperial centre or 'Mother Country') while the indigenous native population of the colonial territories are either exploited, subjugated
+D
+
+32	TOWARDS  COLONIAL  FREEDOM
+or exterminated. In the dominions, not only do the capitalists present the colonial extension of the capital­ ism and imperialism of the mother countries, but their colonial interests, directly or indirectly, coincide. That is why the term 'self-government', 'dominion status', or what the French imperialists now call autonomie, are nothing but blinds and limitations in the way of the struggle of the national liberation movement in the colonies towards self-termination and complete national independence.
+  The reasons advanced for becoming members of the British Commonwealth of Nations, and remaining as such, is that if colonial 'subjects' sever connections with their 'mother country' they will not have enough pro­ tection to ward off other European aggressor nations. The situation is rather the reverse. For instance, when­ ever Britain is at war she has to call upon her colonies and dominions and other foreign powers to help defend herself. Not only does England need the help of her colonies, but in every case in the last war her deliberate policy of refusing to permit industrialization of the colonies has made them indefensible against modern mechanized warfare. Needless to call attention here as to how France depends upon her colonial troops for defence. The point of emphasis here is that, if left alone, the colonies are able to forge the weapons of defence which they are prevented from making in order to defend themselves successfully.
+  Another excuse offered by colonial apologists for their desire to hang on and act like the tail of the kite of the British Empire is that if colonial 'subjects' sever
+
+APOLOGY  FOR  APOLOGETICS	33
+connections with the colonial powers it will hamper their scientific advancement. Britain and other colonial powers have been in Africa for over two centuries yet that continent is almost as technologically backward as when they found it. In fact they have arrested and stultified its growth. If Liberia and Abyssinia are still backward in technological advancement it is chiefly because European and other powers have wilfully limited their advancement through their financial and economic machinations.
+  The political and economic predicament of Liberia demonstrates the fact that unless there is a complete national unity of all  the West African colonies it will be practically impossible for any one \Vest African colony to throw off her for - yoke. Russia iiM'the" U.nited-:"States o	A " e acongl! _ ofr
+d l:fjeOples and f:Uhutea; -yet·,@ B.tlet§; jeye4
+pqlitical uµity. Cult9-and 1inguistic df-li•f" t:e  •?
+by no means i.n stent with political uni .  ·
+  We are aware of the fact that blind nationalism is one of the weapons of aggression, of cut-throat compe­ tition, of imperialism and warfare, but we disagree with those who advocate no nationalism, 'the state of being a nation, a political unity'. The West African colonies, for example, must first unite and become a national entity, absolutely free from the encumbrances of foreign rule, before they can assume the aspect of international co-operation on a grand scale; for the wish to co-operate internationally presupposes indepen­ dent political status. The Dumbarton Oaks Security Conference, the Bretton \Voods Financial Conference,
+
+34	TOWARDS  COLONIAL  FREEDOM
+theSan Francisco World Security Organization and the United Nations Organization support this contention. They all exclude any consideration of the colonies for independence now, and implicitly point out that the majority of mankind who form the inhabitants of the colonies are not entitled to human equality, except through the generosity of the colonial powers whose interest lies in preserving their power and income by means of exploitation of the colonies.
+  Such American organizations as the Council on African Affairs, the Committee on Africa, the War and Peace Aims, the Committee on African Studies, and the Special Research Council of the National Associa­ tion for the Advancement of Coloured Peoples on Colonies and Peace, advocate the 'gradual evolution towards self-government' policy for colonial peoples through some sort of international colonial commis­ sion. The reason given is that the colonial peoples are 'unprepared' for independence now, as if the European monopoly	interests,	which,	incidentally,	rule	the colonial powers as well as the colonies, can be per­ suaded to move out and give the colonies' natural wealth back to their peoples. Do these organizations expect these monopoly interests and their agents, the colonial governments, to expropriate themselves? The answer to this question is as self-evident as the ignor­ ance with which most of these organizations claim that the 'gradual evolution towards self-government' policy is the solution to the colonial problem. Nevertheless, we understand their point of view, to the extent that they reject the colonial system and favour internal self-
+
+APOLOGY  FOR  APOLOGETICS	35
+government, but we feel that they do not go far enough and express the fundamental aspirations of the masses of colonial peoples.
+Let us remind our apologists of  this occurrence:
+speaking in the United States of America, Colonel Oliver Stanley, Britain's erstwhile Secretary of State for the Colonies, declared that Britain's objective in colonial policy was the achievement of the fullest pos­ sible measure of self-government within the British Empire at some unknown future date, and added that it was 'British presence' alone which prevented 'disas­ trous disintegration in her colonies'. w·e grant Colonel Stanley this fact in a way. But it is the same supposedly altruistic 'British presence' that in 1929 mowed down by machine-gun fire poor defenceless Nigerian women for peacefully and harmlessly protesting against exces­ sive taxation, the counterpart of India's Amritsar. Indeed, it is 'British presence' that has compelled poor African workers to toil day in and day out in mines and on plantations for a mere pittance of ninepence ( 18 cents) a day of over 1 o working hours. It is 'British presence' that has persecuted and jailed and deported colonial labour leaders, only for having dared to organize labour in the colonies. It is 'British presence' that has brought war, oppression, poverty and disease and perpetuated mass illiteracy upon colonial peoples. It is 'British presence' that bleeds them white by brutal exploitation in order to feed the 'British lion' with red meat. These are the achievements of 'British presence' in the colonies. This is the 'disintegration' which 'British presence' is nobly preventing in the colonies.
+
+36	TOWARDS  COLONIAL  FREEDOM
+  When this same Oliver Stanley visited Nigeria, a British West African colony, he told the Nigerian Press that Britain desires 'economic independence' for colonies before 'political independence'. The way to achieve this economic independence, according to his thinking, is for the Nigerian people to produce more cocoa, more palm oil, more cotton, more rubber, and more and more raw materials for the British manufac­ turers and industrialists, who, incidentally, pay for these raw materials at their own prices.
+  The practical demonstration of the way to hasten this 'economic independence' was a Bill presented to the British-dominated Legislative Council of Nigeria when it met on 5 March. The Bill provides for the British 'Crown' the ownership of all minerals in Nigeria, an eye-opener for those who advocate the 'gradual evolution towards self-government' policy, and wax so eloquently about the 'unpreparedness' of colonial peoples to govern themselves.
+  A 'Charter for Coloured Peoples' recommending uniform rights for colonial peoples, and submitted to the governments of the United Nations, has been re­ jected by the British Colonial Office on the ground that the British Government is directed to guiding and assisting the social, economic and political development of each territory according to its particular needs and capacities. What an astonishing hypocrisy! Of course, 'uniform rights' does not suit the British or 'Anglo­ Saxon' taste of inferior status for colonial peoples.
+  It is often alleged that colonial peoples are not 'ripe' for independence. The facts of history not only contra-
+
+APOLOGY  FOR  APOLOGETICS	37
+diet this allegation but repudiate it. The imperalist contention of 'unreadiness' for self-government is a blind, because the British imperialists are not taking serious steps to prepare the colonies for self-govern­ ment; the direction is not towards self-government but towards Britain's economic self-aggrandizement. Under the colonial powers' 'tutelage' the colonies will never be 'ripe' for self-government. The reason is quite obvious.
+The English, for instance, were living in a state of
+semi-barbarism when the Romans left them. But today it is a different story altogether. The Russians, thirty years ago, were almost as backward in modern western technology as colonial peoples, and had ninety-five per cent illiteracy, but are now one of the most powerful people of Europe. The Latin American Republics have considerable illiteracy and are not as economically advanced as other nations, but are governing them­ selves. In colonial West Africa, there is a sufficiently informed leadership to direct public affairs without the supervision of Europeans. What right has any colonial power to expect Africans to become 'Europeans' or to have 100 per cent literacy before it considers them 'ripe' for self-government? Wasn't the African who is now considered 'unprepared' to govern himself 'govern­ ing' himself before the advent of Europeans? In fact, the African's way of living even today is more demo­ cratic than the much vaunted 'democratic' manner of life and government of the 'West'.
+
+
+
+
+
+5: What Must Be Done
+
+
+vVe have demonstrated that the imperialist powers will never give up their political and economic dominance over their colonies until they are compelled to do so. Therefore, we suggest the following general plan, theory and method, leaving the details to be filled in by the truly enlightened leadership that will carry out the colonial liberation.
+  The growth of the national liberation movement in the colonies reveals:
+
+  (1) The contradictions among the various foreign groups and the colonial imperialist powers in their struggle for sources of raw materials and for territories. In this sense imperialism and colonialism become the export of capital to sources of raw materials, the fren­ zied and heartless struggle for monopolist possession of these sources, the struggle for a re-division of the already divided world, a struggle waged with particular fury by new financial groups and powers seeking newer territories and colonies against the old groups and
+38
+
+WHAT  MUST  BE DONE	39
+powers which cling tightly to that which they have grabbed.
+  (2) The contradictions between the handful of ruling 'civilized' nations and the millions of colonial peoples of the world. In this sense imperialism is the most degrading exploitation and the most inhuman oppres­ sion of the millions of peoples living in the colonies. The purpose of this exploitation and oppression is to squeeze out super-profits. The inevitable results of imperialism thus are: (a) the emergence of a colonial intelligentsia; (b) the awakening of national conscious­ ness among mlonial peoples; (c) the emergence of a working class movement; and (d) the growth of a national liberation movement.
+
+  In present-day historical development, West Africa represents the focus of all these contradictions of imperialism.
+
+
+Theoretical Basis:
+  The theory of the national liberation movement in colonial countries proceeds from three fundamental theses:
+  (1) The dominance of finance capital in the advanced capitalist countries; the export of capital to the sources of raw materials (imperialism) and the omnipotence of a financial oligarchy (finance capital), reveal the character of monopolist capital which quickens the revolt of the intelligentsia and the working class ele-
+
+40	TOWARDS  COLONIAL  FREEDOM
+ments of the colonies against imperialism, and brings them to the national liberation movement as their only salvation.
+(2) The  increase in the export of capital to the
+colonies; the extension of 'spheres of influence' and colonial possessions until they embrace the whole world; the transformation of capitalism into a world system of financial enslavement and colonial oppres­ sion and exploitation of a vast majority of the popula­ tion of the earth by a handful of the so-called 'civilized' nations.
+(3) The  monopolistic possession of 'spheres of influ­
+ence' and colonies; the uneven development of the different capitalist countries leading to a frenzied struggle between the countries which 'have' and the countries which 'have not'. Thus war becomes the only method of restoring the disturbed equilibrium. This leads to aggravation of a third front, the inter-capitalist alliance front (e.g. Anglo-American imperialism), which weakens imperialism and facilitates the amalga­ mation of the first two fronts against imperialism, namely, the front of the working class of the capitalist countries and the front of the toiling masses of the colonies for colonial emancipation. Hence these con­ clusions:
+
+  (a) Intensification of the crisis within the imperialist­ colonial powers in the colonies.
+  (b) Intensification of the crisis in the colonies and the growth of the liberation movement against local colonial governments on the colonial front.
+
+WHAT  MUST  BE  DONE	41
+  (c) That under imperialism war cannot be averted and that a coalition between the proletarian move­ ment in the capitalist countries and the colonial libera­ tion movement, against the world front of imperialism becomes inevitable.
+
+  It is, therefore, in this alone that the hope of free­ dom and independence for the colonies lies. But how to achieve this? First and foremost, Organization of the Colonial Masses.
+  The duty of any worthwhile colonial movement for national liberation, however, must be the organization of labour and of youth; and the abolition of political illiteracy. This should be accomplished through mass political education which keeps in constant contact with the masses of colonial peoples. This type of educa­ tion should do away with that kind of intelligentsia who have become the very architects of colonial enslave­ ment.
+  Then, the organizations must prepare the agents of progress, must find the ablest among its youth and train their special interests (technological, scientific and political) and establish an education fund to help and to encourage students of the colonies to study at home and abroad, and must found schools of its own for the dissemination of political education. The main purpose of the organization is to bring about the final death of colonialism and the discontinuance of foreign imperialist domination. The organization must root itself and secure its basis and strength in the labour movement, the farmers (the workers and peasantry)
+
+42	TOWARDS  COLONIAL  FREEDOM	WHAT  MUST  BE  DONE	43
+
+and the youth. This national liberation movement must struggle for its own principles and to win its aims.
+It must have its own press. It cannot live separately
+from, nor deviate from the aims and aspirations of the masses, the organized force of labour, the organized farmers, and the responsible and cogent organization of youth. These form the motive force of the colonial liberation movement and as they develop and gain political consciousness, so the drive for liberation leaves the sphere of mere ideas and becomes more real. The peoples of the colonies know precisely what they want. They wish to be free and independent, to be able to feel themselves on an equal with all other peoples, and to work out their own destiny without outside interference, and to be unrestricted to attain an advancement that will put them on a par with other technically advanced nations of the world. Outside interference does not help to develop their country. It impedes and stifles and crushes not only economic progress, but  the spirit and indigenous enterprise of
+the peoples themselves.
+  The future development of the people of vVest Africa and of other colonial peoples can only take place under conditions of political freedom that will assure ample latitude for the formation and execution of economic plans and social legislation, as are now imperative for any truly civilized country, that will be truly beneficial to the people and that will be sup­ ported and approved by the people themselves. Such conditions cannot exist under alien governments and
+
+the people will certainly not prosper under colonialism and imperialism.
+We therefore advance the following programme,
+confident that it will meet with the enthusiastic sup­ port and approval of the great masses of colonial peoples because it puts into concrete form what are their already expressed or instinctive desires:
+
+  (1) Political Freedom, i.e., complete and absolute independence from the control of any foreign govern­ ment.
+(2) Democratic Freedom, i.e. freedom from political
+tyranny and the establishment of a democracy in which sovereignty is vested in the broad masses of the people.
+  (3) Social Reconstruction, i.e. freedom from poverty and economic exploitation and uie improvement of social and economic conditions of the people so that they will be able to find better means of achieving livelihood and asserting their right to human life and happiness.	"
+
+  Thus the goal of the national liberation movement is the realization of complete and unconditional inde­ pendence, and the building of a society of peoples in which the free development of each is the condition for the free development of all.
+PEOPLES OF THE  COLONIES,  UNITE:  The
+working men of all countries are behind you.
+
+
+
+
+
+Appendix
+
+
+DECLARATION TO THE COLONIAL PEOPLES OF THE WORLD
+
+Written by KwAME NKRUMAH.
+
+Approved and Adopted by the Pan-African Congress held in Manchester, England, October I5th-2Ist, I945·
+
+
+We believe in the rights of all peoples to govern them­ selves. We affirm the right of all colonial peoples to con­ trol their own destiny. All colonies must be free from foreign imperialist control, whether political or econ­ omic. The peoples of the colonies must have the right to elect their own government, a government without restrictions from a foreign power. \Ve say to the peoples of the colonies that they must strive for these ends by all means at their disposal.
+  The object of imperialist powers is to exploit. By granting the right to the colonial peoples to govern themselves, they are defeating that objective. There-
+44
+
+APPENDIX	45
+fore, the struggle for political power by colonial and subject peoples is the first step towards, and the neces­ sary pre-requisite to, complete social, economic and political emancipation.
+  The Fifth Pan-African Congress, therefore, calls on the workers and farmers of the colonies to organize effectively. Colonial workers must be in the front lines of the battle against imperialism.
+  This Fifth Pan-African Congress calls on the intel­ lectuals and professional classes of the colonies to awaken to their responsibilities. The long, long night is over. By fighting for trade union rights, the right to form co-operatives, freedom of the press, assembly, demonstration and strike; freedom to print and read the literature which is necessary for the education of the masses, you will be using the only means by which your liberties will be won and maintained. Today there is only one road to effective action - the organization of the masses.
+
+  COLONIAL AND SUBJECT PEOPLES OF THE WORLD - UNITE!
